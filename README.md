@@ -1,5 +1,6 @@
 # 1. Butterfly Image Classification
-   ![butterfly1](https://github.com/ArathiPullott/CNN_Image_Classification/assets/120770265/0f72cd4c-621c-49ae-bd12-e7caee570ccf)
+   ![butterfly_wallpaper](https://github.com/ArathiPullott/CNN_Image_Classification/assets/120770265/ff78b787-b945-4b7c-8328-45f7b0723cdd)
+
 
 ## Project Objective:
 Developing a Butterfly Image Classification System Using Convolutional Neural Networks (CNN) and Transfer Learning with Pre-trained Models.
